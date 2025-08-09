@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! I'm a 3rd-year M.Sc Data Science student at Amrita (Class of '27) with a passion for ML, AI, Cybersecurity. I enjoy building innovative solutions that blend **machine learning** with real-world applications.
+ Hi there! I'm a 4th-year M.Sc Data Science student at Amrita (Class of '27) with a passion for ML, AI, Cybersecurity. I enjoy building innovative solutions that blend **machine learning** with real-world applications.
 
  I love diving deep into **AI-driven security**, and cutting-edge technologies, constantly challenging myself to push the limits of what’s possible.
 
