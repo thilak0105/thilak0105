@@ -1,7 +1,38 @@
-# 💫 About Me:
- Hi there! I'm a 4th-year M.Sc Data Science student at Amrita (Class of '27) with a passion for ML, AI, Cybersecurity. I enjoy building innovative solutions that blend **machine learning** with real-world applications.
+## Hello World! &nbsp;  𝙸 𝚊𝚖 𝚃𝚑𝚒𝚕𝚊𝚔 &nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
- I love diving deep into **AI-driven security**, and cutting-edge technologies, constantly challenging myself to push the limits of what’s possible.
+<a href="https://thilakportfolio.vercel.app/">
+  <img align="left" alt="Thilaks's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />
+</a>
+<a href="https://www.linkedin.com/in/thilak0105/"> 
+  <img align="left" alt="Thilak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://resume.thilak.tech">
+  <img align="left" alt="Thilak's Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/googledocs.svg" />
+</a>
+
+<a href="https://leetcode.com/u/lthilak2/">
+  <img align="left" alt="Thilaks's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+</a>
+<a href="mailto:lthilak2@gmail.com">
+  <img align="left" alt="Thilak's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/thilak_.0105/">
+  <img align="left" alt="Thilaks's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+<a href="https://github.com/thilak0105">
+  <img align="left" alt="Thilak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+
+### Final Year M.Sc Data Science Student at Amrita 
+- An AI, Machine Learning & Data Science enthusiast.
+- Passionate about building intelligent systems and solving real-world problems with data.
+- Currently working on some of my cool projects based on RAG Systems, and Predictive Modeling.
+- Exploring Reinforcement Learning, AI Agents, and advanced ML optimization techniques.
+- Always eager to learn new technologies and contribute to impactful open-source and research projects.
+- Open to collaborations, internship and full-time opportunities in AI, ML & Data Science.
 
 # 💻 Tech Stack:
 
@@ -32,8 +63,9 @@
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thilak0105&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thilak0105&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thilak0105&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thilak0105&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/thilak0105) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lthilak2@gmail.com) 
@@ -41,4 +73,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thilak0105&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--  ( https://gprm.itsvg.in ) -->
