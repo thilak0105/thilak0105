@@ -27,17 +27,16 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="340"/>
 
 ### Final Year M.Sc Data Science Student at Amrita 
-<h3>
+<p style="font-size:20px">
 
 - An AI, Machine Learning & Data Science enthusiast.  
 - Passionate about building intelligent systems and solving real-world problems with data.  
-- Currently working on some of my cool projects based on RAG Systems and Predictive Modeling.  
+- Currently working on projects based on RAG Systems and Predictive Modeling.  
 - Exploring Reinforcement Learning, AI Agents, and advanced ML optimization techniques.  
 - Always eager to learn new technologies and contribute to impactful open-source and research projects.  
 - Open to collaborations, internships, and full-time opportunities in AI, ML & Data Science.
 
-</h3>
-
+</p>
 # 💻 Tech Stack:
 
 # Languages
