@@ -24,7 +24,7 @@
   <img align="left" alt="Thilak's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="340"/>
 
 ### Final Year M.Sc Data Science Student at Amrita 
 - An AI, Machine Learning & Data Science enthusiast.
