@@ -65,6 +65,7 @@
 ![DjangoREST](https://img.shields.io/badge/Django--REST-ff1709?style=flat-square&logo=django&logoColor=white&labelColor=gray)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
  
 **Tools**
  
