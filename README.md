@@ -86,9 +86,12 @@
   
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="36%" src="https://github-readme-streak-stats-eight.vercel.app/?user=thilak0105&theme=github-dark&hide_border=true"/>
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilak0105&theme=github_dark"/>
-  <img width="39.1%" src="https://github-readme-activity-graph.vercel.app/graph?username=thilak0105&theme=github-dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=thilak0105&theme=github-dark&hide_border=true"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilak0105&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=thilak0105&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
