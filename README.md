@@ -76,7 +76,7 @@
 
 <br>
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning 
  
 ![LLMs](https://img.shields.io/badge/🟢%20LLMs%20%26%20Generative%20AI-1a1b2e?style=flat-square&labelColor=4a3870&color=4a3870)
 ![Prompt Engineering](https://img.shields.io/badge/🟢%20Prompt%20Engineering-1a1b2e?style=flat-square&labelColor=4a3870&color=4a3870)
