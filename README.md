@@ -59,7 +59,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
  
-**Backend & Database**
+**Backend & Database** 
  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django--REST-ff1709?style=flat-square&logo=django&logoColor=white&labelColor=gray)
