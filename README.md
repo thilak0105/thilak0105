@@ -24,7 +24,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="340"/>
 
-### Final Year M.Sc Data Science Student at Amrita 
+### Final Year M.Sc Data Science Student at Amrita  
 <h3>
 
 - An AI, Machine Learning & Data Science enthusiast. <br><br>
