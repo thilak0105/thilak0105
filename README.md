@@ -1,6 +1,6 @@
 ## Hello World! &nbsp;  𝙸 𝚊𝚖 𝚃𝚑𝚒𝚕𝚊𝚔 &nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://thilakportfolio.vercel.app/">
+<a href="https://thilakportfolio.vercel.app/"> 
   <img align="left" alt="Thilaks's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thilak0105/"> 
