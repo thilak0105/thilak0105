@@ -3,7 +3,7 @@
 <a href="https://thilakportfolio.vercel.app/"> 
   <img align="left" alt="Thilaks's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />
 </a>
-<a href="https://www.linkedin.com/in/thilak0105/"> 
+<a href="https://www.linkedin.com/in/thilak0105/">  
   <img align="left" alt="Thilak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://resume.thilak.tech">
